@@ -1,6 +1,6 @@
 # Magical Princess Functional Mods
 
-《梦幻魔法公主》游戏的功能性Mod合集，包含批量烹饪、隐藏文本框和角色立绘功能扩展。
+《梦幻魔法公主》游戏的功能性Mod合集，包含批量烹饪、隐藏文本框((H键隐藏文本框)和角色立绘(J键隐藏人物立绘)功能扩展。
 A functional mod collection for the game *Magical Princess*, including batch cooking, hidden text box, and character image feature expansions.
 
 ---
