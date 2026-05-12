@@ -10,7 +10,7 @@ A functional mod collection for the game *Magical Princess*, including batch coo
 2.  打开 `BepInEx` 文件夹（此时该文件夹下文件较少），通过 Steam 运行游戏，观察 `BepInEx` 文件夹是否自动生成了其他文件（如 `plugins`、`config` 等）。
 3.  安装 Mod 文件，按以下目录结构放置：
 
-## 目录结构 / Directory Structure
+```## 目录结构 / Directory Structure
 Magical Princess
 └── BepInEx
     └── plugins
@@ -20,3 +20,4 @@ Magical Princess
         │   └── BatchCooking.dll
         │
         └── HideTextBox_1.1.dll
+```
